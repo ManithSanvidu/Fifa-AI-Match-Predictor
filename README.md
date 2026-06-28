@@ -244,9 +244,8 @@ The application predicts:
 
 ## 👨‍💻 Author
 
-**Manith**
+**Manith Gamage**
 
-Final Year Artificial Intelligence / Machine Learning Project
 
 ---
 
